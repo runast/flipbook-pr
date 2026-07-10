@@ -658,7 +658,7 @@ const AdSenseManager = {
     // বায়ারদের জন্য কনফিগারেশন সেটআপ
     config: {
         enabled: true,             // বিজ্ঞাপন চালু করতে true করুন
-        publisherId: "ca-pub-6732071444714275", // বায়ারের অ্যাডসেন্স আইডি
+        publisherId: "ca-pub-", // বায়ারের অ্যাডসেন্স আইডি
         
         placements: {
             aboveBook: {
